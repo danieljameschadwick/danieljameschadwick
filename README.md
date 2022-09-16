@@ -1,7 +1,7 @@
 ## Hi, I'm Dan!
 
 - 💼 I’m working at i6  ✈️ on the 👨🏻‍🎨 Frontend team,
-- 🛠 I’m currently working on [Links](https://github.com/danieljameschadwick/links),
+- 🛠 I’m currently working on [Links](https://github.com/danieljameschadwick/links) 🔗 and [Scores](https://github.com/danieljameschadwick/scores) 🏈,
 - 🎨 On the **Frontend** I'm working with:
     - React,
     - React Native,
