@@ -5,12 +5,14 @@
 - 🎨 On the **Frontend** I'm working with:
     - React,
     - React Native,
-    - Expo.
+    - Expo,
+    - NextJS.
 - 🔨 On the **Backend** I'm working with:
     - NestJS,
     - MongoDB,
     - PostgreSQL,
-    - PHP/Symfony.
+    - PHP/Symfony,
+    - ..and looking to work with NextJS here too...
 
 🔗 &nbsp;**Connect with me on..**
 <p align="left">
