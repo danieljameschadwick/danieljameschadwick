@@ -4,7 +4,7 @@
 - 🛠 I’m currently working on [Links](https://github.com/danieljameschadwick/links) 🔗 and [Scores](https://github.com/danieljameschadwick/scores) 🏈,
 - 🎨 On the **Frontend** I'm working with:
     - React,
-    - React Native,
+    - React Native, and React Native Web,
     - Expo,
     - NextJS.
 - 🔨 On the **Backend** I'm working with:
