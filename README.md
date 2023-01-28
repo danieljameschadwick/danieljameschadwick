@@ -8,11 +8,10 @@
     - Expo,
     - NextJS.
 - 🔨 On the **Backend** I'm working with:
-    - NestJS,
+    - NextJS (API routing with TS/Go),
     - MongoDB,
     - PostgreSQL,
-    - PHP/Symfony,
-    - ..and looking to work with NextJS here too...
+    - PHP/Symfony.
 
 🔗 &nbsp;**Connect with me on..**
 <p align="left">
