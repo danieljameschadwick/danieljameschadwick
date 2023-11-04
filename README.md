@@ -1,17 +1,19 @@
 ## Hi, I'm Dan!
 
-- 💼 I’m working at i6  ✈️ on the 👨🏻‍🎨 Frontend team,
+- 💼 I’m working at Reward Gateway on the 👨🏻‍💻 Backend team,
 - 🛠 I’m currently working on [Links](https://github.com/danieljameschadwick/links) 🔗 and [Scores](https://github.com/danieljameschadwick/scores) 🏈,
+- 🔨 On the **Backend** I'm working with:
+    - PHP/Symfony,
+    - MySQL,
+    - NextJS (API routing with TS/Go),
+    - MongoDB,
+    - PostgreSQL.
 - 🎨 On the **Frontend** I'm working with:
     - React,
     - React Native, and React Native Web,
     - Expo,
     - NextJS.
-- 🔨 On the **Backend** I'm working with:
-    - NextJS (API routing with TS/Go),
-    - MongoDB,
-    - PostgreSQL,
-    - PHP/Symfony.
+
 
 🔗 &nbsp;**Connect with me on..**
 <p align="left">
