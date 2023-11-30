@@ -1,7 +1,7 @@
 ## Hi, I'm Dan!
 
 - 💼 I’m working at Reward Gateway on the 👨🏻‍💻 Backend team,
-- 🛠 I’m currently working on [Links](https://github.com/danieljameschadwick/links) 🔗 and [Scores](https://github.com/danieljameschadwick/scores) 🏈,
+- 🛠 I’m currently working on a Travel app ✈️, [Links](https://github.com/danieljameschadwick/links) 🔗 and [Scores](https://github.com/danieljameschadwick/scores) 🏈,
 - 🔨 On the **Backend** I'm working with:
     - PHP/Symfony,
     - MySQL,
